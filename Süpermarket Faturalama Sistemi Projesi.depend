@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620568366 source:c:\users\tayfun\desktop\süpermarket faturalama sistemi projesi\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<iomanip>
+
